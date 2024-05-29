@@ -23,27 +23,27 @@ public class EventManager : MonoBehaviour
     {
         if (eventID == 1)
         {
-            SceneManager.LoadScene("AR mode");
+            SceneManager.LoadScene("Dragon");
         }
         else if (eventID == 2)
         {
-            SceneManager.LoadScene("AR mode");
+            SceneManager.LoadScene("Dragon");
         }
         else if (eventID == 3)
         {
-            SceneManager.LoadScene("AR mode");
+            SceneManager.LoadScene("Dragon");
         }
         else if (eventID == 4)
         {
-            SceneManager.LoadScene("AR mode");
+            SceneManager.LoadScene("Dragon");
         }
         else if (eventID == 5)
         {
-            SceneManager.LoadScene("AR mode");
+            SceneManager.LoadScene("Dragon");
         }
         else if (eventID == 6)
         {
-            SceneManager.LoadScene("AR mode");
+            SceneManager.LoadScene("Dragon");
         }
     }
 }

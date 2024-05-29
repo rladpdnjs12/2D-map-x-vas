@@ -80,6 +80,7 @@ namespace Enemy
         {
             Debug.Log("씬을 'Location-basedGame'로 전환합니다.");
             SceneManager.LoadScene("Location-basedGame");
+            Runner.Shutdown();
         }
 
         private void OnTriggerEnter2D(Collider2D collision)
